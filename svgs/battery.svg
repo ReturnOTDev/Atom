@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.093" height="98.186" viewBox="0 0 49.093 98.186">
+  <g id="battery" transform="translate(-4 98.186) rotate(-90)">
+    <g id="Group" transform="translate(0 4)">
+      <path id="Rectangle_147" data-name="Rectangle 147" d="M822.136,58.137v36.82h79.776V58.137ZM822.185,52h79.678a6.144,6.144,0,0,1,6.186,6.118v6.155h6.136V88.82h-6.136v6.155a6.178,6.178,0,0,1-6.186,6.118H822.185A6.143,6.143,0,0,1,816,94.975V58.118A6.178,6.178,0,0,1,822.185,52Zm6.087,12.273h49.093V88.82H828.272Zm0,0" transform="translate(-815.999 -52)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297.47" height="297.47" viewBox="0 0 297.47 297.47">
+  <g id="graphic" transform="translate(-779.995 -179.99)">
+    <g id="Group_1" data-name="Group 1" transform="translate(916.584 132) rotate(30)" opacity="0.71">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="108.882" cy="108.882" r="108.882" transform="translate(0 55.414)" fill="#00c2ff"/>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="matrix(-0.259, 0.966, -0.966, -0.259, 172.01, 8.33)" fill="none" stroke="#0061a4" stroke-width="6">
+        <ellipse cx="164.007" cy="16.093" rx="164.007" ry="16.093" stroke="none"/>
+        <ellipse cx="164.007" cy="16.093" rx="161.007" ry="13.093" fill="none"/>
+      </g>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="21.228" height="216.394" rx="9" transform="matrix(0.966, 0.259, -0.259, 0.966, 119.364, 54.89)" fill="#00c2ff"/>
+    </g>
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="10.5" cy="10" rx="10.5" ry="10" transform="translate(801.075 227.908)" fill="#0061a4"/>
+    <path id="Path_1" data-name="Path 1" d="M838.224,288.813s-28.9,62.494-5.468,132.8" transform="translate(-40.971 -25.764)" fill="none" stroke="#585858" stroke-linecap="round" stroke-width="3" stroke-dasharray="9 21"/>
+  </g>
+</svg>
