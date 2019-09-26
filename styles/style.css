@@ -300,7 +300,7 @@ nav li a:hover {
   }
   .blue-container {
     margin: 2.5rem 0;
-    padding: 2.5rem 0 0;
+    padding: 2.5rem 0;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
   }
@@ -381,7 +381,7 @@ nav li a:hover {
     margin-bottom: 5rem;
   }
   .blue-container {
-    padding: 3rem 0 3rem;
+    padding: 3rem 0;
   }
   .blue-container img {
     width: 4rem;
