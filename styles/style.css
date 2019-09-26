@@ -75,7 +75,7 @@ h1 {
   background-color: #00c2ff;
   color: #fff;
   margin-top: 2.5rem;
-  padding: 2.5rem 0 0;
+  padding: 2.5rem 0;
   z-index: 1;
   border-radius: 40px 0 0 0;
   -webkit-transform: skewY(-2deg);
@@ -103,6 +103,10 @@ h1 {
 .blue-container li:nth-child(2) img {
   width: 8.5%;
   max-width: 2rem;
+}
+
+.blue-container li:last-of-type {
+  margin-bottom: 0;
 }
 
 .blue-container:before {
@@ -438,6 +442,7 @@ nav li a:hover {
     margin: 3rem auto;
     -webkit-animation: bob 0.8s infinite alternate;
             animation: bob 0.8s infinite alternate;
+    cursor: pointer;
   }
   @-webkit-keyframes bob {
     0% {

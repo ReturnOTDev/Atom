@@ -108,6 +108,9 @@ h1 {
 		width: 8.5%;
 		max-width: 2rem;
 	}
+	li:last-of-type {
+		margin-bottom: 0;
+	}
 }
 
 // curve-top effect
